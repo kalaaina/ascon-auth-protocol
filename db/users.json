@@ -1,0 +1,27 @@
+{
+  "bob": {
+    "hash_hex": "615989693d3b8a6d2dc808b56c601789169a78d45260da16d2767bc55410edec",
+    "algo": "ascon",
+    "registered_at": "2026-05-21T10:24:37Z"
+  },
+  "Bob": {
+    "hash_hex": "e96fb12a9a410f9834f45247b07091f6c0c41489f242a11c68b20333c1c4a824",
+    "algo": "ascon",
+    "registered_at": "2026-05-21T10:41:53Z"
+  },
+  "test1": {
+    "hash_hex": "5f958ffb24bf5d986bee53cec1b336183728120b05837644826c7f04e8165230",
+    "algo": "ascon",
+    "registered_at": "2026-05-21T10:50:11Z"
+  },
+  "user1": {
+    "hash_hex": "5f958ffb24bf5d986bee53cec1b336183728120b05837644826c7f04e8165230",
+    "algo": "ascon",
+    "registered_at": "2026-05-26T12:56:46Z"
+  },
+  "Alice": {
+    "hash_hex": "ead1807e6337f064bf93cf41376f8fc1f5d1061dd32802c7b854a7003c25494e",
+    "algo": "ascon",
+    "registered_at": "2026-05-27T12:35:05Z"
+  }
+}
